@@ -3,4 +3,7 @@
 ### Other addons:
 
 * ElvUI - https://github.com/ElvUI-MoP/ElvUI-5.4.8
-  
+
+### Other repositories:
+
+* aglarcz - https://github.com/aglarcz?tab=repositories&q=MoP
