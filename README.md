@@ -16,3 +16,7 @@
 * OmniBar: https://github.com/ManneN1/OmniBar-MoP
 * Skada for MoP Revisited: https://github.com/bkader/Skada-MoP/
 * WeakAuras2: https://github.com/Maczuga/WeakAuras2-MoP
+
+### Other resources:
+
+* Shared weakauras (WAs) and ElvUI profiles: https://wa.stormforge.gg/
