@@ -14,6 +14,7 @@
 * Immersion: https://github.com/SushiWoW/MoP-Immersion
 * Masque Skins: https://github.com/SFX-WoW/Masque/wiki/Skin-List
 * OmniBar: https://github.com/ManneN1/OmniBar-MoP
+* Simulation Craft addon: https://github.com/kennipj/SimulationCraft-Addon-5.4.8
 * Skada for MoP Revisited: https://github.com/bkader/Skada-MoP/
 * WeakAuras2: https://github.com/Maczuga/WeakAuras2-MoP
 
