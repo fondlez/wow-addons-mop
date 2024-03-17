@@ -20,3 +20,4 @@
 ### Other resources:
 
 * Shared weakauras (WAs) and ElvUI profiles: https://wa.stormforge.gg/
+* Simulation Craft app: https://github.com/kennipj/simulationcraft-MoP/releases
