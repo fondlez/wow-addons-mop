@@ -1,5 +1,9 @@
 # World of Warcraft - Addons - Mists of Panderia (5.4.8 compatible or lower)
 
+[Browse Addons by Category](/fondlez/wow-addons-mop/wiki#browse-by-category)
+
+[Browse Addons by Name](/fondlez/wow-addons-mop/wiki#browse-by-name)
+
 ### Other repositories:
 
 * aglarcz - https://github.com/aglarcz?tab=repositories&q=MoP
