@@ -28,7 +28,7 @@
 * Shared weakauras (WAs) and ElvUI profiles: https://wa.stormforge.gg/
 * Simulation Craft app: https://github.com/kennipj/simulationcraft-MoP/releases
 
-## How to install a WoW addon ##
+## How to install a WoW addon
 
 1. If you never launched WoW, double click WoW.exe or otherwise launch WoW.
 2. Log in with one of your characters.
@@ -42,7 +42,7 @@
 
 Common issue: if you downloaded your addon from a Github site, then you may need to rename the extracted folder and remove "-master" from it.
 
-## Have you installed an addon and it is not showing up in WoW? ##
+## Have you installed an addon and it is not showing up in WoW?
 
 **Rule 1:** Make sure that in each folder immediately below `Interface\AddOns`, there is a `.toc` file in it. This is the addon folder.  
 **Rule 2:** Make sure that this addon folder matches the name of the `.toc` file.
