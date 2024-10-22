@@ -1,8 +1,9 @@
 # World of Warcraft - Addons - Mists of Panderia (5.4.8 compatible or lower)
 
-[Browse Addons by Category](https://github.com/fondlez/wow-addons-mop/wiki#browse-by-category)
+## [Browse Addons by Category](https://github.com/fondlez/wow-addons-mop/wiki#browse-by-category)
 
-[Browse Addons by Name](https://github.com/fondlez/wow-addons-mop/wiki#browse-by-name)
+## [Browse Addons by Name](https://github.com/fondlez/wow-addons-mop/wiki#browse-by-name) 
+## [a](https://github.com/fondlez/wow-addons-mop/wiki#a) | [b](https://github.com/fondlez/wow-addons-mop/wiki#b) | [c](https://github.com/fondlez/wow-addons-mop/wiki#c) | [d](https://github.com/fondlez/wow-addons-mop/wiki#d) | [e](https://github.com/fondlez/wow-addons-mop/wiki#e) | [f](https://github.com/fondlez/wow-addons-mop/wiki#f) | [g](https://github.com/fondlez/wow-addons-mop/wiki#g) | [h](https://github.com/fondlez/wow-addons-mop/wiki#h) | [i](https://github.com/fondlez/wow-addons-mop/wiki#i) | [j](https://github.com/fondlez/wow-addons-mop/wiki#j) | [k](https://github.com/fondlez/wow-addons-mop/wiki#k) | [l](https://github.com/fondlez/wow-addons-mop/wiki#l) | [m](https://github.com/fondlez/wow-addons-mop/wiki#m) | [n](https://github.com/fondlez/wow-addons-mop/wiki#n) | [o](https://github.com/fondlez/wow-addons-mop/wiki#o) | [p](https://github.com/fondlez/wow-addons-mop/wiki#p) | [q](https://github.com/fondlez/wow-addons-mop/wiki#q) | [r](https://github.com/fondlez/wow-addons-mop/wiki#r) | [s](https://github.com/fondlez/wow-addons-mop/wiki#s) | [u](https://github.com/fondlez/wow-addons-mop/wiki#u) | [v](https://github.com/fondlez/wow-addons-mop/wiki#v) | [w](https://github.com/fondlez/wow-addons-mop/wiki#w) | [x](https://github.com/fondlez/wow-addons-mop/wiki#x) | [y](https://github.com/fondlez/wow-addons-mop/wiki#y) | [z](https://github.com/fondlez/wow-addons-mop/wiki#z) 
 
 ### Other repositories:
 
