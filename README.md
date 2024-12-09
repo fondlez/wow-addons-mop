@@ -7,7 +7,7 @@
 
 ### Other repositories:
 
-* aglarcz - https://github.com/aglarcz?tab=repositories&q=MoP
+* vaniron - https://github.com/vaniron?tab=repositories&q=MoP
 
 ### Other addons:
 
