@@ -1,4 +1,4 @@
-# World of Warcraft - Addons - Mists of Panderia (5.4.8 compatible or lower)
+# World of Warcraft - Addons - Mists of Panderia (5.4.8 compatible)
 
 ## [Browse Addons by Category](https://github.com/fondlez/wow-addons-mop/wiki#browse-by-category)
 
