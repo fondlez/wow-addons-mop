@@ -30,6 +30,6 @@
 
 ## Frequently Asked Questions (FAQ)
 
-* [How to install a WoW addon](/wiki/#faq-addon-install)
-* [Have you installed an addon and it is not showing up in WoW?](./wiki/#faq-addon-rules)
+* [How to install a WoW addon](https://github.com/fondlez/wow-addons-mop/wiki/#faq-addon-install)
+* [Have you installed an addon and it is not showing up in WoW?](https://github.com/fondlez/wow-addons-mop/wiki/#faq-addon-rules)
 
